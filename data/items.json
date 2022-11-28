@@ -1,125 +1,126 @@
-[
+{
+  "posts": [
     {
-      "posts": [
-        {
-          "id": 0,
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/1200px-Los_Angeles_Lakers_logo.svg.png",
-          "nama": "LA Lakers",
-          "pelatih": "Darvin Ham",
-          "pemilik": "Buss Family Trust",
-          "stadion": "Staples Center",
-          "markas": "Los Angels",
-          "deskripsi": "Los Angeles Lakers adalah sebuah tim basket profesional Amerika Serikat yang bermarkas di Los Angeles. Lakers berkompetisi di National Basketball Association (NBA), sebagai anggota Wilayah Barat, Divisi Pasifik. Lakers memainkan pertandingan kandang mereka di Staples Center, sebuah arena yang juga digunakan oleh klub NBA lain yaitu Los Angeles Clippers, Los Angeles Sparks dari Women's National Basketball Association, dan Los Angeles Kings dari National Hockey League."
-        },
-        {
-          "id": 1,
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Brooklyn_Nets_newlogo.svg/1548px-Brooklyn_Nets_newlogo.svg.png",
-          "nama": "Brooklyn Nets",
-          "pelatih": "Jacque Vaughn",
-          "pemilik": "Joseph Tsai",
-          "stadion": "Barclays Center",
-          "markas": "New York",
-          "deskripsi": "Brooklyn Nets adalah sebuah tim basket profesional Amerika Serikat yang bermarkas di borough Kota New York, Brooklyn. Nets berkompetisi dalam National Basketball Association (NBA) sebagai anggota Divisi Atlantik, Wilayah Timur. Nets memainkan pertandingan kandang mereka di Barclays Center. Mereka adalah salah satu dari dua tim NBA yang bermarkas di Kota New York; yang satunya adalah New York Knicks. Tim ini didirikan pada tahun 1967 sebagai tim carter dari liga saingan NBA, American Basketball Association (ABA)."
-        },
-        {
-          "id": 2,
-          "logo": "https://upload.wikimedia.org/wikipedia/id/thumb/d/dc/Phoenix_Suns_logo.svg/800px-Phoenix_Suns_logo.svg.png",
-          "nama": "Phoenix Suns",
-          "pelatih": "Monty Williams",
-          "pemilik": "Robert Sarver",
-          "stadion": "Footprint Center",
-          "markas": "Arizona",
-          "deskripsi": "Phoenix Suns adalah tim bola basket profesional Amerika yang berbasis di Phoenix, Arizona. Mereka bersaing di National Basketball Association (NBA), sebagai anggota Divisi Pasifik Wilayah Barat liga. The Suns adalah satu-satunya tim di divisi mereka yang tidak berbasis di California, dan memainkan pertandingan kandang mereka di Footprint Center. The Suns adalah salah satu dari empat tim olahraga liga utama yang berbasis di wilayah Phoenix, tetapi merupakan satu-satunya yang menyebut diri mereka mewakili kota."
-        },
-        {
-          "id": 3,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Atlanta_Hawks_logo.svg/800px-Atlanta_Hawks_logo.svg.png",
-          "nama": "Atlanta Hawks",
-          "pelatih": "Nate McMillan",
-          "pemilik": "Antony Ressler",
-          "stadion": "State Farm Arena",
-          "markas": "Georgia",
-          "deskripsi": "Atlanta Hawks adalah sebuah tim basket profesional Amerika Serikat yang bermarkas di Atlanta, Georgia. Hawks berkompetisi di National Basketball Association (NBA) sebagai anggota Wilayah Timur Divisi Tenggara. Hawks memainkan pertandingan kandang mereka di State Farm Arena."
-        },
-        {
-          "id": 4,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/New_York_Knicks_logo.svg/1024px-New_York_Knicks_logo.svg.png",
-          "nama": "New York Knicks",
-          "pelatih": "Tom Thibodeau",
-          "pemilik": "Madison Square Garden Company",
-          "stadion": "Madison Square Garden",
-          "markas": "New York",
-          "deskripsi": "New York Knicks adalah tim bola basket Amerika Serikat yang tergabung dalam National Basketball Association. Tim ini berbasis di New York City, New York. Klub New York Knicks berkompetisi di liga NBA di Divisi Atlantik, Wilayah Timur. Bermarkas di Madison Square Garden, Manhattan, Knicks adalah satu dari dua klub yang berlokasi New York City, bersama dengan Brooklyn Nets. Tim ini didirikan oleh Ned Irish pada tahun 1946 dan bersama klub Boston Celtics menjadi salah satu dari dua klub yang berlokasi di kota yang sama sejak pertama bergabung bersama NBA."
-        },
-        {
-          "id": 5,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Indiana_Pacers.svg/300px-Indiana_Pacers.svg.png",
-          "nama": "Indiana Pacers",
-          "pelatih": "Rick Carlisle",
-          "pemilik": "Herbert Simon",
-          "stadion": "Gainbridge Fieldhouse",
-          "markas": "Indiana",
-          "deskripsi": "Indiana Pacers adalah tim bola basket Amerika Serikat yang tergabung dalam National Basketball Association. Tim ini berbasis di Conseco Fieldhouse, Indianapolis, Indiana. Nama Pacers diambil dari sejarah Indiana tentang seekor kuda balap yang disebut Pacers. Selain itu, Pacers juga terinspirasi dari mobil keselamatan (pace car) yang digunakan dalam balapan Indianapolis 500."
-        },
-        {
-          "id": 6,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Milwaukee_Bucks_logo.svg/800px-Milwaukee_Bucks_logo.svg.png",
-          "nama": "Milwaukee Bucks",
-          "pelatih": "Mike Budenholzer",
-          "pemilik": "Wes Edens, Marc Lasry, Jamie Dinan, Mike Fascitelli",
-          "stadion": "Fiserv Forum",
-          "markas": "Wisconsin",
-          "deskripsi": "Milwaukee Bucks adalah sebuah tim basket profesional Amerika Serikat yang bermarkas di Milwaukee, Wisconsin. Bucks berkompetisi di National Basketball Association (NBA) sebagai anggota Wilayah Timur, Divisi Tengah. Bucks didirikan pada tahun 1968 sebagai tim baru, dan memainkan pertandingan kandang mereka di Fiserv Forum."
-        },
-        {
-          "id": 7,
-          "nama": "Stephen Curry",
-          "posisi": "Point Guard",
-          "team": "Golden State Warriors",
-          "foto": "https://www.pngmart.com/files/22/Stephen-Curry-PNG-Clipart.png"
-        },
-        {
-          "id": 8,
-          "nama": "Kevin Wayne Durant",
-          "posisi": "Small Forward, Power Forward, dan Shooting Guard",
-          "team": "Brooklyn Nets",
-          "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/1610612751/2021/260x190/201142.png"
-        },
-        {
-          "id": 9,
-          "nama": "LeBron James",
-          "posisi": "Small Forward, Power Forward, Point Guard, dan Shooting Guard",
-          "team": "Los Angeles Lakers",
-          "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/1610612756/2021/260x190/1626164.png"
-        },
-        {
-          "id": 10,
-          "nama": "Giannis Antetokounmpo",
-          "posisi": "Power Forward, Small Forward, Point Guard, dan Shooting Guard",
-          "team": "Milwaukee Bucks",
-          "foto": "https://mayfieldsportsmarketing.com/wp-content/uploads/2016/04/Giannis-Profile.png"
-        },
-        {
-          "id": 11,
-          "name": "Nikola Jokic",
-          "posisi": "Center",
-          "team": "Denver Nuggets",
-          "foto": "https://cdn.nba.com/headshots/nba/latest/1040x760/203999.png"
-        },
-        {
-          "id": 12,
-          "nama": "Joel Embiid",
-          "posisi": "Center",
-          "team": "Philadelphia 76ers",
-          "foto": "https://www.pngarts.com/files/5/Joel-Embiid-PNG-Image.png"
-        },
-         {
-          "id": 13,
-          "nama": "Kawhi Leonard",
-          "posisi": "Small Forward",
-          "team": "Los Angeles Clippers",
-          "foto": "https://cdn.nba.com/headshots/nba/latest/1040x760/202695.png"
-        }
-      ]
+      "id": 0,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/1200px-Los_Angeles_Lakers_logo.svg.png",
+      "nama": "LA Lakers",
+      "pelatih": "Darvin Ham",
+      "pemilik": "Buss Family Trust",
+      "stadion": "Staples Center",
+      "markas": "Los Angels",
+      "deskripsi": "Los Angeles Lakers adalah sebuah tim basket profesional Amerika Serikat yang bermarkas di Los Angeles. Lakers berkompetisi di National Basketball Association (NBA), sebagai anggota Wilayah Barat, Divisi Pasifik. Lakers memainkan pertandingan kandang mereka di Staples Center, sebuah arena yang juga digunakan oleh klub NBA lain yaitu Los Angeles Clippers, Los Angeles Sparks dari Women's National Basketball Association, dan Los Angeles Kings dari National Hockey League."
+    },
+    {
+      "id": 1,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Brooklyn_Nets_newlogo.svg/1548px-Brooklyn_Nets_newlogo.svg.png",
+      "nama": "Brooklyn Nets",
+      "pelatih": "Jacque Vaughn",
+      "pemilik": "Joseph Tsai",
+      "stadion": "Barclays Center",
+      "markas": "New York",
+      "deskripsi": "Brooklyn Nets adalah sebuah tim basket profesional Amerika Serikat yang bermarkas di borough Kota New York, Brooklyn. Nets berkompetisi dalam National Basketball Association (NBA) sebagai anggota Divisi Atlantik, Wilayah Timur. Nets memainkan pertandingan kandang mereka di Barclays Center. Mereka adalah salah satu dari dua tim NBA yang bermarkas di Kota New York; yang satunya adalah New York Knicks. Tim ini didirikan pada tahun 1967 sebagai tim carter dari liga saingan NBA, American Basketball Association (ABA)."
+    },
+    {
+      "id": 2,
+      "logo": "https://upload.wikimedia.org/wikipedia/id/thumb/d/dc/Phoenix_Suns_logo.svg/800px-Phoenix_Suns_logo.svg.png",
+      "nama": "Phoenix Suns",
+      "pelatih": "Monty Williams",
+      "pemilik": "Robert Sarver",
+      "stadion": "Footprint Center",
+      "markas": "Arizona",
+      "deskripsi": "Phoenix Suns adalah tim bola basket profesional Amerika yang berbasis di Phoenix, Arizona. Mereka bersaing di National Basketball Association (NBA), sebagai anggota Divisi Pasifik Wilayah Barat liga. The Suns adalah satu-satunya tim di divisi mereka yang tidak berbasis di California, dan memainkan pertandingan kandang mereka di Footprint Center. The Suns adalah salah satu dari empat tim olahraga liga utama yang berbasis di wilayah Phoenix, tetapi merupakan satu-satunya yang menyebut diri mereka mewakili kota."
+    },
+    {
+      "id": 3,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Atlanta_Hawks_logo.svg/800px-Atlanta_Hawks_logo.svg.png",
+      "nama": "Atlanta Hawks",
+      "pelatih": "Nate McMillan",
+      "pemilik": "Antony Ressler",
+      "stadion": "State Farm Arena",
+      "markas": "Georgia",
+      "deskripsi": "Atlanta Hawks adalah sebuah tim basket profesional Amerika Serikat yang bermarkas di Atlanta, Georgia. Hawks berkompetisi di National Basketball Association (NBA) sebagai anggota Wilayah Timur Divisi Tenggara. Hawks memainkan pertandingan kandang mereka di State Farm Arena."
+    },
+    {
+      "id": 4,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/New_York_Knicks_logo.svg/1024px-New_York_Knicks_logo.svg.png",
+      "nama": "New York Knicks",
+      "pelatih": "Tom Thibodeau",
+      "pemilik": "Madison Square Garden Company",
+      "stadion": "Madison Square Garden",
+      "markas": "New York",
+      "deskripsi": "New York Knicks adalah tim bola basket Amerika Serikat yang tergabung dalam National Basketball Association. Tim ini berbasis di New York City, New York. Klub New York Knicks berkompetisi di liga NBA di Divisi Atlantik, Wilayah Timur. Bermarkas di Madison Square Garden, Manhattan, Knicks adalah satu dari dua klub yang berlokasi New York City, bersama dengan Brooklyn Nets. Tim ini didirikan oleh Ned Irish pada tahun 1946 dan bersama klub Boston Celtics menjadi salah satu dari dua klub yang berlokasi di kota yang sama sejak pertama bergabung bersama NBA."
+    },
+    {
+      "id": 5,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Indiana_Pacers.svg/300px-Indiana_Pacers.svg.png",
+      "nama": "Indiana Pacers",
+      "pelatih": "Rick Carlisle",
+      "pemilik": "Herbert Simon",
+      "stadion": "Gainbridge Fieldhouse",
+      "markas": "Indiana",
+      "deskripsi": "Indiana Pacers adalah tim bola basket Amerika Serikat yang tergabung dalam National Basketball Association. Tim ini berbasis di Conseco Fieldhouse, Indianapolis, Indiana. Nama Pacers diambil dari sejarah Indiana tentang seekor kuda balap yang disebut Pacers. Selain itu, Pacers juga terinspirasi dari mobil keselamatan (pace car) yang digunakan dalam balapan Indianapolis 500."
+    },
+    {
+      "id": 6,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Milwaukee_Bucks_logo.svg/800px-Milwaukee_Bucks_logo.svg.png",
+      "nama": "Milwaukee Bucks",
+      "pelatih": "Mike Budenholzer",
+      "pemilik": "Wes Edens, Marc Lasry, Jamie Dinan, Mike Fascitelli",
+      "stadion": "Fiserv Forum",
+      "markas": "Wisconsin",
+      "deskripsi": "Milwaukee Bucks adalah sebuah tim basket profesional Amerika Serikat yang bermarkas di Milwaukee, Wisconsin. Bucks berkompetisi di National Basketball Association (NBA) sebagai anggota Wilayah Timur, Divisi Tengah. Bucks didirikan pada tahun 1968 sebagai tim baru, dan memainkan pertandingan kandang mereka di Fiserv Forum."
+    },
+    {
+      "id": 7,
+      "nama": "Stephen Curry",
+      "posisi": "Point Guard",
+      "team": "Golden State Warriors",
+      "foto": "https://www.pngmart.com/files/22/Stephen-Curry-PNG-Clipart.png"
+    },
+    {
+      "id": 8,
+      "nama": "Kevin Wayne Durant",
+      "posisi": "Small Forward, Power Forward, dan Shooting Guard",
+      "team": "Brooklyn Nets",
+      "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/1610612751/2021/260x190/201142.png"
+    },
+    {
+      "id": 9,
+      "nama": "LeBron James",
+      "posisi": "Small Forward, Power Forward, Point Guard, dan Shooting Guard",
+      "team": "Los Angeles Lakers",
+      "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/1610612756/2021/260x190/1626164.png"
+    },
+    {
+      "id": 10,
+      "nama": "Giannis Antetokounmpo",
+      "posisi": "Power Forward, Small Forward, Point Guard, dan Shooting Guard",
+      "team": "Milwaukee Bucks",
+      "foto": "https://mayfieldsportsmarketing.com/wp-content/uploads/2016/04/Giannis-Profile.png"
+    },
+    {
+      "id": 11,
+      "name": "Nikola Jokic",
+      "posisi": "Center",
+      "team": "Denver Nuggets",
+      "foto": "https://cdn.nba.com/headshots/nba/latest/1040x760/203999.png"
+    },
+    {
+      "id": 12,
+      "nama": "Joel Embiid",
+      "posisi": "Center",
+      "team": "Philadelphia 76ers",
+      "foto": "https://www.pngarts.com/files/5/Joel-Embiid-PNG-Image.png"
+    },
+     {
+      "id": 13,
+      "nama": "Kawhi Leonard",
+      "posisi": "Small Forward",
+      "team": "Los Angeles Clippers",
+      "foto": "https://cdn.nba.com/headshots/nba/latest/1040x760/202695.png"
     }
-]
+  ],
+  "profile": {
+    "name": "Falmaas"
+  }
+}
