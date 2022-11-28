@@ -7,6 +7,7 @@ module.exports = {
   items,
   tags,
   brands,
+  posts,
   itemTypes
 }
 
